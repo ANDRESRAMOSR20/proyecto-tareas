@@ -17,7 +17,7 @@ Este proyecto es una aplicación de gestión de tareas construida con Python. Pe
 Primero, clona el repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/usuario/proyecto-tareas.git
+git clone https://github.com/ANDRESRAMOSR20/proyecto-tareas.git
 cd proyecto-tareas
 ```
 ### 2. Crear un entorno virtual
