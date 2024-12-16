@@ -1,0 +1,11 @@
+# Ignorar entornos virtuales
+.venv/
+env/
+
+# Ignorar archivos de configuración de editor
+.vscode/
+.idea/
+
+# Ignorar archivos de sistema
+Thumbs.db
+.DS_Store
